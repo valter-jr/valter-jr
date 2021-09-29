@@ -2,11 +2,10 @@
 
 ## 
 ### Tools:
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-0277BD?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=Java&logoColor=red">
   <img src="https://img.shields.io/badge/Eclipse-FFA500?style=for-the-badge&logo=eclipse&logoColor=black">
   <img src="https://img.shields.io/badge/Postman-CC5500?style=for-the-badge&logo=postman&logoColor=black">
 </div>
