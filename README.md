@@ -36,6 +36,7 @@
 - 🔭 Still in college, but working as an apprentice Java back end developer.
 - 🌱 I’m currently learning Spring Boot + Web Services.
 - 💬 Ask me about how did I get here, if you want to know.
+- 📃 You can check my Udemy certificates <a href="https://docs.google.com/document/d/1AaW9_IzcGgyhv_Say_QAHygBJW9ytufyTysu50wRKsc" target="_blank">here</a>.
 
 <div> 
   <a href = "mailto:valter.jrads@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
