@@ -34,10 +34,15 @@
   ##
 
 ### About:
-- 🔭 Still in college, but working as an Junior with Java back end developer.
-- 🌱 I’m currently learning JSF and PrimeFaces.
 - 💬 Ask me about how did I get here, if you want to know.
 - 📃 You can check my Udemy certificates <a href="https://docs.google.com/document/d/e/2PACX-1vS3hBw-URO7v3QeONLxXzedR9zimWZrRphY-iZgHaMqr7OvFuNtP-7cGpL7dHrYugpdfvDWa_iHqD7b/pub" target="_blank">here</a>.
+
+
+- 📃 My <a href="https://alura.com.br" target="_blank">Alura</a> certificates:
+
+
+- 🍃 Spring Boot Courses:
+  - <a href="https://cursos.alura.com.br/certificate/valter-jr/spring-boot-api-rest" target="_blank">SPRING BOOT API REST: CONSTRUA UMA API.</a>
 
 <div> 
   <a href = "mailto:valter.jrads@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
