@@ -42,6 +42,7 @@
 
 - 🍃 Spring Boot Courses:
   - <a href="https://cursos.alura.com.br/certificate/valter-jr/spring-boot-api-rest" target="_blank">SPRING BOOT API REST: CONSTRUA UMA API.</a>
+  - <a href="https://cursos.alura.com.br/course/spring-boot-seguranca-cache-monitoramento" target="_blank">Spring Boot API Rest: Segurança da API, Cache e Monitoramento</a>
 
 <div> 
   <a href = "mailto:valter.jrads@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
