@@ -37,7 +37,7 @@
 - 📃 You can check my Udemy certificates <a href="https://docs.google.com/document/d/e/2PACX-1vS3hBw-URO7v3QeONLxXzedR9zimWZrRphY-iZgHaMqr7OvFuNtP-7cGpL7dHrYugpdfvDWa_iHqD7b/pub" target="_blank">here</a>.
 
 
-- 📃 My <a href="https://alura.com.br" target="_blank">Alura</a> certificates:
+- 📃 <a href="https://cursos.alura.com.br/user/valter-jr" target="_blank">My</a> alura certificates:
 - 🌐 Java Web:
   - <a href="https://cursos.alura.com.br/course/servlets-fundamentos-programacao-web-java" target="_blank">Java Servlet: programação web Java. </a>
 
