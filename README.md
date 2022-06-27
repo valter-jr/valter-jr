@@ -38,7 +38,8 @@
 
 
 - 📃 My <a href="https://alura.com.br" target="_blank">Alura</a> certificates:
-
+- 🌐 Java Web:
+  - <a href="https://cursos.alura.com.br/course/servlets-fundamentos-programacao-web-java" target="_blank">Java Servlet: programação web Java. </a>
 
 - 🍃 Spring Boot Courses:
   - <a href="https://cursos.alura.com.br/certificate/valter-jr/spring-boot-api-rest" target="_blank">SPRING BOOT API REST: CONSTRUA UMA API.</a>
