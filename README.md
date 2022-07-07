@@ -40,6 +40,7 @@
 - 📃 <a href="https://cursos.alura.com.br/user/valter-jr" target="_blank">My</a> alura certificates:
 - 🌐 Java Web:
   - <a href="https://cursos.alura.com.br/course/servlets-fundamentos-programacao-web-java" target="_blank">Java Servlet: programação web Java. </a>
+  - <a href="https://cursos.alura.com.br/course/servlet-autenticacao-autorizacao-mvc" target="_blank">Java Servlet: autenticação, autorização e o padrão MVC. </a>
 
 - 🍃 Spring Boot Courses:
   - <a href="https://cursos.alura.com.br/certificate/valter-jr/spring-boot-api-rest" target="_blank">SPRING BOOT API REST: CONSTRUA UMA API.</a>
